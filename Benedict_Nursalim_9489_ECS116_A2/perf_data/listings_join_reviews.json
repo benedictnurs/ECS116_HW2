@@ -1,0 +1,546 @@
+{
+    "listings_join_review_2009": {
+        "__datetime_in_reviews__id_in_listings__": {
+            "avg": 0.089,
+            "min": 0.0733,
+            "max": 0.9959,
+            "std": 0.0377,
+            "exec_count": 50,
+            "timestamp": "2024-05-21 00:49:33"
+        },
+        "__datetime_in_reviews__": {
+            "avg": 0.1254,
+            "min": 0.0797,
+            "max": 1.5849,
+            "std": 0.0437,
+            "exec_count": 50,
+            "timestamp": "2024-05-21 00:54:48"
+        },
+        "__id_in_listings__": {
+            "avg": 0.1236,
+            "min": 0.0721,
+            "max": 2.9073,
+            "std": 0.1025,
+            "exec_count": 50,
+            "timestamp": "2024-05-21 00:59:57"
+        },
+        "__": {
+            "avg": 0.118,
+            "min": 0.0799,
+            "max": 1.9046,
+            "std": 0.0679,
+            "exec_count": 50,
+            "timestamp": "2024-05-21 01:04:52"
+        }
+    },
+    "listings_join_review_2010": {
+        "__datetime_in_reviews__id_in_listings__": {
+            "avg": 0.1192,
+            "min": 0.0784,
+            "max": 0.9106,
+            "std": 0.045,
+            "exec_count": 50,
+            "timestamp": "2024-05-21 01:09:51"
+        },
+        "__datetime_in_reviews__": {
+            "avg": 0.1192,
+            "min": 0.0807,
+            "max": 0.8878,
+            "std": 0.037,
+            "exec_count": 50,
+            "timestamp": "2024-05-21 01:14:50"
+        },
+        "__id_in_listings__": {
+            "avg": 0.1124,
+            "min": 0.0772,
+            "max": 1.0067,
+            "std": 0.033,
+            "exec_count": 50,
+            "timestamp": "2024-05-21 01:19:31"
+        },
+        "__": {
+            "avg": 0.1051,
+            "min": 0.0738,
+            "max": 1.0754,
+            "std": 0.0331,
+            "exec_count": 50,
+            "timestamp": "2024-05-21 01:23:54"
+        }
+    },
+    "listings_join_review_2011": {
+        "__datetime_in_reviews__id_in_listings__": {
+            "avg": 0.1024,
+            "min": 0.0763,
+            "max": 0.5901,
+            "std": 0.0211,
+            "exec_count": 50,
+            "timestamp": "2024-05-21 01:28:11"
+        },
+        "__datetime_in_reviews__": {
+            "avg": 0.0995,
+            "min": 0.0735,
+            "max": 0.4883,
+            "std": 0.0183,
+            "exec_count": 50,
+            "timestamp": "2024-05-21 01:32:20"
+        },
+        "__id_in_listings__": {
+            "avg": 0.1132,
+            "min": 0.0778,
+            "max": 1.3451,
+            "std": 0.0487,
+            "exec_count": 50,
+            "timestamp": "2024-05-21 01:37:03"
+        },
+        "__": {
+            "avg": 0.1008,
+            "min": 0.0717,
+            "max": 1.1203,
+            "std": 0.0392,
+            "exec_count": 50,
+            "timestamp": "2024-05-21 01:41:15"
+        }
+    },
+    "listings_join_review_2012": {
+        "__datetime_in_reviews__id_in_listings__": {
+            "avg": 0.0941,
+            "min": 0.0798,
+            "max": 1.4609,
+            "std": 0.0354,
+            "exec_count": 50,
+            "timestamp": "2024-05-21 01:45:11"
+        },
+        "__datetime_in_reviews__": {
+            "avg": 0.0938,
+            "min": 0.0731,
+            "max": 0.5037,
+            "std": 0.0193,
+            "exec_count": 50,
+            "timestamp": "2024-05-21 01:49:06"
+        },
+        "__id_in_listings__": {
+            "avg": 0.0899,
+            "min": 0.0724,
+            "max": 0.4223,
+            "std": 0.015,
+            "exec_count": 50,
+            "timestamp": "2024-05-21 01:52:51"
+        },
+        "__": {
+            "avg": 0.0928,
+            "min": 0.0774,
+            "max": 0.5302,
+            "std": 0.0173,
+            "exec_count": 50,
+            "timestamp": "2024-05-21 01:56:43"
+        }
+    },
+    "listings_join_review_2013": {
+        "__datetime_in_reviews__id_in_listings__": {
+            "avg": 0.0916,
+            "min": 0.0798,
+            "max": 0.456,
+            "std": 0.0174,
+            "exec_count": 50,
+            "timestamp": "2024-05-21 02:00:32"
+        },
+        "__datetime_in_reviews__": {
+            "avg": 0.0946,
+            "min": 0.0786,
+            "max": 0.5646,
+            "std": 0.0213,
+            "exec_count": 50,
+            "timestamp": "2024-05-21 02:04:30"
+        },
+        "__id_in_listings__": {
+            "avg": 0.0922,
+            "min": 0.0791,
+            "max": 0.4944,
+            "std": 0.0181,
+            "exec_count": 50,
+            "timestamp": "2024-05-21 02:08:20"
+        },
+        "__": {
+            "avg": 0.1003,
+            "min": 0.0762,
+            "max": 1.0258,
+            "std": 0.0414,
+            "exec_count": 50,
+            "timestamp": "2024-05-21 02:12:31"
+        }
+    },
+    "listings_join_review_2014": {
+        "__datetime_in_reviews__id_in_listings__": {
+            "avg": 0.1042,
+            "min": 0.0751,
+            "max": 2.2587,
+            "std": 0.0906,
+            "exec_count": 50,
+            "timestamp": "2024-05-21 02:16:53"
+        },
+        "__datetime_in_reviews__": {
+            "avg": 0.1046,
+            "min": 0.0731,
+            "max": 2.6805,
+            "std": 0.0975,
+            "exec_count": 50,
+            "timestamp": "2024-05-21 02:21:15"
+        },
+        "__id_in_listings__": {
+            "avg": 0.094,
+            "min": 0.082,
+            "max": 1.0696,
+            "std": 0.0263,
+            "exec_count": 50,
+            "timestamp": "2024-05-21 02:25:10"
+        },
+        "__": {
+            "avg": 0.0925,
+            "min": 0.0746,
+            "max": 0.5105,
+            "std": 0.0184,
+            "exec_count": 50,
+            "timestamp": "2024-05-21 02:29:01"
+        }
+    },
+    "listings_join_review_2015": {
+        "__datetime_in_reviews__id_in_listings__": {
+            "avg": 0.0984,
+            "min": 0.0803,
+            "max": 1.5164,
+            "std": 0.0433,
+            "exec_count": 50,
+            "timestamp": "2024-05-21 02:33:08"
+        },
+        "__datetime_in_reviews__": {
+            "avg": 0.0975,
+            "min": 0.0793,
+            "max": 0.7888,
+            "std": 0.0256,
+            "exec_count": 50,
+            "timestamp": "2024-05-21 02:37:12"
+        },
+        "__id_in_listings__": {
+            "avg": 0.0967,
+            "min": 0.0878,
+            "max": 0.6671,
+            "std": 0.0215,
+            "exec_count": 50,
+            "timestamp": "2024-05-21 02:41:14"
+        },
+        "__": {
+            "avg": 0.0977,
+            "min": 0.0764,
+            "max": 1.9145,
+            "std": 0.0441,
+            "exec_count": 50,
+            "timestamp": "2024-05-21 02:45:18"
+        }
+    },
+    "listings_join_review_2016": {
+        "__datetime_in_reviews__id_in_listings__": {
+            "avg": 0.105,
+            "min": 0.0801,
+            "max": 1.7721,
+            "std": 0.071,
+            "exec_count": 50,
+            "timestamp": "2024-05-21 02:49:42"
+        },
+        "__datetime_in_reviews__": {
+            "avg": 0.1017,
+            "min": 0.0823,
+            "max": 1.1051,
+            "std": 0.0327,
+            "exec_count": 50,
+            "timestamp": "2024-05-21 02:53:56"
+        },
+        "__id_in_listings__": {
+            "avg": 0.1009,
+            "min": 0.0823,
+            "max": 1.2702,
+            "std": 0.0328,
+            "exec_count": 50,
+            "timestamp": "2024-05-21 02:58:09"
+        },
+        "__": {
+            "avg": 0.1001,
+            "min": 0.0839,
+            "max": 0.4739,
+            "std": 0.0202,
+            "exec_count": 50,
+            "timestamp": "2024-05-21 03:02:19"
+        }
+    },
+    "listings_join_review_2017": {
+        "__datetime_in_reviews__id_in_listings__": {
+            "avg": 0.1033,
+            "min": 0.0862,
+            "max": 1.2646,
+            "std": 0.0402,
+            "exec_count": 50,
+            "timestamp": "2024-05-21 03:06:38"
+        },
+        "__datetime_in_reviews__": {
+            "avg": 0.1034,
+            "min": 0.0921,
+            "max": 0.6536,
+            "std": 0.0209,
+            "exec_count": 50,
+            "timestamp": "2024-05-21 03:10:57"
+        },
+        "__id_in_listings__": {
+            "avg": 0.1054,
+            "min": 0.0841,
+            "max": 1.5767,
+            "std": 0.0403,
+            "exec_count": 50,
+            "timestamp": "2024-05-21 03:15:21"
+        },
+        "__": {
+            "avg": 0.1093,
+            "min": 0.0851,
+            "max": 1.6139,
+            "std": 0.0672,
+            "exec_count": 50,
+            "timestamp": "2024-05-21 03:19:55"
+        }
+    },
+    "listings_join_review_2018": {
+        "__datetime_in_reviews__id_in_listings__": {
+            "avg": 0.1766,
+            "min": 0.1651,
+            "max": 1.0824,
+            "std": 0.0373,
+            "exec_count": 50,
+            "timestamp": "2024-05-21 03:27:17"
+        },
+        "__datetime_in_reviews__": {
+            "avg": 0.1756,
+            "min": 0.1661,
+            "max": 1.1345,
+            "std": 0.0364,
+            "exec_count": 50,
+            "timestamp": "2024-05-21 03:34:36"
+        },
+        "__id_in_listings__": {
+            "avg": 0.1736,
+            "min": 0.1656,
+            "max": 0.7908,
+            "std": 0.027,
+            "exec_count": 50,
+            "timestamp": "2024-05-21 03:41:50"
+        },
+        "__": {
+            "avg": 0.1754,
+            "min": 0.1657,
+            "max": 1.0873,
+            "std": 0.0354,
+            "exec_count": 50,
+            "timestamp": "2024-05-21 03:49:09"
+        }
+    },
+    "listings_join_review_2019": {
+        "__datetime_in_reviews__id_in_listings__": {
+            "avg": 0.1818,
+            "min": 0.1726,
+            "max": 0.7046,
+            "std": 0.0282,
+            "exec_count": 50,
+            "timestamp": "2024-05-21 03:56:44"
+        },
+        "__datetime_in_reviews__": {
+            "avg": 0.1817,
+            "min": 0.1732,
+            "max": 0.6364,
+            "std": 0.0289,
+            "exec_count": 50,
+            "timestamp": "2024-05-21 04:04:19"
+        },
+        "__id_in_listings__": {
+            "avg": 0.1809,
+            "min": 0.1734,
+            "max": 0.6244,
+            "std": 0.0261,
+            "exec_count": 50,
+            "timestamp": "2024-05-21 04:11:52"
+        },
+        "__": {
+            "avg": 0.1841,
+            "min": 0.1734,
+            "max": 0.9462,
+            "std": 0.0363,
+            "exec_count": 50,
+            "timestamp": "2024-05-21 04:19:32"
+        }
+    },
+    "listings_join_review_2020": {
+        "__datetime_in_reviews__id_in_listings__": {
+            "avg": 0.0888,
+            "min": 0.0773,
+            "max": 0.6138,
+            "std": 0.0245,
+            "exec_count": 50,
+            "timestamp": "2024-05-21 04:23:15"
+        },
+        "__datetime_in_reviews__": {
+            "avg": 0.103,
+            "min": 0.0868,
+            "max": 0.52,
+            "std": 0.0202,
+            "exec_count": 50,
+            "timestamp": "2024-05-21 04:27:33"
+        },
+        "__id_in_listings__": {
+            "avg": 0.1194,
+            "min": 0.0815,
+            "max": 4.8507,
+            "std": 0.1494,
+            "exec_count": 50,
+            "timestamp": "2024-05-21 04:32:31"
+        },
+        "__": {
+            "avg": 0.1071,
+            "min": 0.0834,
+            "max": 1.4685,
+            "std": 0.0607,
+            "exec_count": 50,
+            "timestamp": "2024-05-21 04:36:59"
+        }
+    },
+    "listings_join_review_2021": {
+        "__datetime_in_reviews__id_in_listings__": {
+            "avg": 0.1864,
+            "min": 0.1755,
+            "max": 0.7655,
+            "std": 0.0303,
+            "exec_count": 50,
+            "timestamp": "2024-05-21 04:44:46"
+        },
+        "__datetime_in_reviews__": {
+            "avg": 0.1856,
+            "min": 0.1767,
+            "max": 0.6784,
+            "std": 0.0292,
+            "exec_count": 50,
+            "timestamp": "2024-05-21 04:52:30"
+        },
+        "__id_in_listings__": {
+            "avg": 0.1852,
+            "min": 0.1766,
+            "max": 0.5619,
+            "std": 0.0269,
+            "exec_count": 50,
+            "timestamp": "2024-05-21 05:00:13"
+        },
+        "__": {
+            "avg": 0.1865,
+            "min": 0.1777,
+            "max": 0.674,
+            "std": 0.0296,
+            "exec_count": 50,
+            "timestamp": "2024-05-21 05:08:00"
+        }
+    },
+    "listings_join_review_2022": {
+        "__datetime_in_reviews__id_in_listings__": {
+            "avg": 0.1059,
+            "min": 0.0943,
+            "max": 0.7724,
+            "std": 0.0248,
+            "exec_count": 50,
+            "timestamp": "2024-05-21 05:12:25"
+        },
+        "__datetime_in_reviews__": {
+            "avg": 0.1238,
+            "min": 0.101,
+            "max": 1.3401,
+            "std": 0.0377,
+            "exec_count": 50,
+            "timestamp": "2024-05-21 05:17:35"
+        },
+        "__id_in_listings__": {
+            "avg": 0.1194,
+            "min": 0.098,
+            "max": 0.4619,
+            "std": 0.0247,
+            "exec_count": 50,
+            "timestamp": "2024-05-21 05:22:34"
+        },
+        "__": {
+            "avg": 0.1361,
+            "min": 0.0982,
+            "max": 1.4323,
+            "std": 0.0555,
+            "exec_count": 50,
+            "timestamp": "2024-05-21 05:28:14"
+        }
+    },
+    "listings_join_review_2023": {
+        "__datetime_in_reviews__id_in_listings__": {
+            "avg": 0.1228,
+            "min": 0.1091,
+            "max": 0.547,
+            "std": 0.0228,
+            "exec_count": 50,
+            "timestamp": "2024-05-21 05:33:22"
+        },
+        "__datetime_in_reviews__": {
+            "avg": 0.13,
+            "min": 0.1043,
+            "max": 1.1795,
+            "std": 0.0447,
+            "exec_count": 50,
+            "timestamp": "2024-05-21 05:38:48"
+        },
+        "__id_in_listings__": {
+            "avg": 0.125,
+            "min": 0.1131,
+            "max": 0.6236,
+            "std": 0.0238,
+            "exec_count": 50,
+            "timestamp": "2024-05-21 05:44:00"
+        },
+        "__": {
+            "avg": 0.1282,
+            "min": 0.102,
+            "max": 1.0367,
+            "std": 0.0459,
+            "exec_count": 50,
+            "timestamp": "2024-05-21 05:49:21"
+        }
+    },
+    "listings_join_review_2024": {
+        "__datetime_in_reviews__id_in_listings__": {
+            "avg": 0.0898,
+            "min": 0.0778,
+            "max": 0.4616,
+            "std": 0.0177,
+            "exec_count": 50,
+            "timestamp": "2024-05-21 05:53:06"
+        },
+        "__datetime_in_reviews__": {
+            "avg": 0.0894,
+            "min": 0.0727,
+            "max": 0.4447,
+            "std": 0.0185,
+            "exec_count": 50,
+            "timestamp": "2024-05-21 05:56:50"
+        },
+        "__id_in_listings__": {
+            "avg": 0.0894,
+            "min": 0.0811,
+            "max": 0.4885,
+            "std": 0.0183,
+            "exec_count": 50,
+            "timestamp": "2024-05-21 06:00:34"
+        },
+        "__": {
+            "avg": 0.0904,
+            "min": 0.0726,
+            "max": 0.6119,
+            "std": 0.0208,
+            "exec_count": 50,
+            "timestamp": "2024-05-21 06:04:20"
+        }
+    }
+}
