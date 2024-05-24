@@ -1,0 +1,920 @@
+{
+    "apartment_2009": {
+        "__": {
+            "avg": 2.8014,
+            "min": 2.4053,
+            "max": 3.4505,
+            "std": 0.3524,
+            "count": 5,
+            "timestamp": "2024-05-23 16:10:23"
+        },
+        "__comments_tsv_in_reviews__": {
+            "avg": 1.3241,
+            "min": 1.2164,
+            "max": 1.4971,
+            "std": 0.0954,
+            "count": 5,
+            "timestamp": "2024-05-23 16:10:30"
+        },
+        "__datetime_in_reviews__": {
+            "avg": 2.3426,
+            "min": 1.9696,
+            "max": 2.6378,
+            "std": 0.2423,
+            "count": 5,
+            "timestamp": "2024-05-23 16:10:42"
+        },
+        "__datetime_in_reviews__comments_tsv_in_reviews__": {
+            "avg": 1.2048,
+            "min": 0.9954,
+            "max": 1.4017,
+            "std": 0.1424,
+            "count": 5,
+            "timestamp": "2024-05-23 16:10:48"
+        }
+    },
+    "apartment_2010": {
+        "__": {
+            "avg": 2.0114,
+            "min": 1.8022,
+            "max": 2.17,
+            "std": 0.1217,
+            "count": 5,
+            "timestamp": "2024-05-23 16:11:53"
+        },
+        "__comments_tsv_in_reviews__": {
+            "avg": 0.9119,
+            "min": 0.3361,
+            "max": 1.4262,
+            "std": 0.4457,
+            "count": 5,
+            "timestamp": "2024-05-23 16:11:58"
+        },
+        "__datetime_in_reviews__": {
+            "avg": 2.593,
+            "min": 2.3644,
+            "max": 2.8521,
+            "std": 0.1714,
+            "count": 5,
+            "timestamp": "2024-05-23 16:12:11"
+        },
+        "__datetime_in_reviews__comments_tsv_in_reviews__": {
+            "avg": 1.0877,
+            "min": 0.8324,
+            "max": 1.3318,
+            "std": 0.1655,
+            "count": 5,
+            "timestamp": "2024-05-23 16:12:16"
+        }
+    },
+    "apartment_2011": {
+        "__": {
+            "avg": 2.3695,
+            "min": 2.089,
+            "max": 2.6192,
+            "std": 0.1723,
+            "count": 5,
+            "timestamp": "2024-05-23 16:13:35"
+        },
+        "__comments_tsv_in_reviews__": {
+            "avg": 1.4675,
+            "min": 1.1938,
+            "max": 1.9169,
+            "std": 0.2709,
+            "count": 5,
+            "timestamp": "2024-05-23 16:13:42"
+        },
+        "__datetime_in_reviews__": {
+            "avg": 3.0327,
+            "min": 2.3331,
+            "max": 4.0166,
+            "std": 0.734,
+            "count": 5,
+            "timestamp": "2024-05-23 16:13:57"
+        },
+        "__datetime_in_reviews__comments_tsv_in_reviews__": {
+            "avg": 1.347,
+            "min": 1.1471,
+            "max": 1.6006,
+            "std": 0.1834,
+            "count": 5,
+            "timestamp": "2024-05-23 16:14:04"
+        }
+    },
+    "apartment_2012": {
+        "__": {
+            "avg": 3.3733,
+            "min": 2.5004,
+            "max": 4.9793,
+            "std": 0.8677,
+            "count": 5,
+            "timestamp": "2024-05-23 16:15:29"
+        },
+        "__comments_tsv_in_reviews__": {
+            "avg": 1.7218,
+            "min": 1.3758,
+            "max": 2.1638,
+            "std": 0.2984,
+            "count": 5,
+            "timestamp": "2024-05-23 16:15:38"
+        },
+        "__datetime_in_reviews__": {
+            "avg": 2.4328,
+            "min": 2.0513,
+            "max": 3.061,
+            "std": 0.3547,
+            "count": 5,
+            "timestamp": "2024-05-23 16:15:50"
+        },
+        "__datetime_in_reviews__comments_tsv_in_reviews__": {
+            "avg": 1.2533,
+            "min": 0.9417,
+            "max": 1.4512,
+            "std": 0.19,
+            "count": 5,
+            "timestamp": "2024-05-23 16:15:56"
+        }
+    },
+    "apartment_2013": {
+        "__": {
+            "avg": 2.3594,
+            "min": 1.9798,
+            "max": 2.8167,
+            "std": 0.3237,
+            "count": 5,
+            "timestamp": "2024-05-23 16:17:04"
+        },
+        "__comments_tsv_in_reviews__": {
+            "avg": 1.4403,
+            "min": 1.3599,
+            "max": 1.5348,
+            "std": 0.0591,
+            "count": 5,
+            "timestamp": "2024-05-23 16:17:11"
+        },
+        "__datetime_in_reviews__": {
+            "avg": 3.7125,
+            "min": 2.6799,
+            "max": 5.4433,
+            "std": 1.0549,
+            "count": 5,
+            "timestamp": "2024-05-23 16:17:30"
+        },
+        "__datetime_in_reviews__comments_tsv_in_reviews__": {
+            "avg": 1.489,
+            "min": 1.0971,
+            "max": 1.788,
+            "std": 0.2589,
+            "count": 5,
+            "timestamp": "2024-05-23 16:17:37"
+        }
+    },
+    "apartment_2014": {
+        "__": {
+            "avg": 2.2637,
+            "min": 2.103,
+            "max": 2.4865,
+            "std": 0.1447,
+            "count": 5,
+            "timestamp": "2024-05-23 16:18:48"
+        },
+        "__comments_tsv_in_reviews__": {
+            "avg": 1.7032,
+            "min": 1.2445,
+            "max": 3.057,
+            "std": 0.686,
+            "count": 5,
+            "timestamp": "2024-05-23 16:18:56"
+        },
+        "__datetime_in_reviews__": {
+            "avg": 2.6299,
+            "min": 2.0996,
+            "max": 3.4565,
+            "std": 0.4535,
+            "count": 5,
+            "timestamp": "2024-05-23 16:19:10"
+        },
+        "__datetime_in_reviews__comments_tsv_in_reviews__": {
+            "avg": 1.0918,
+            "min": 0.2133,
+            "max": 1.839,
+            "std": 0.5277,
+            "count": 5,
+            "timestamp": "2024-05-23 16:19:15"
+        }
+    },
+    "apartment_2017": {
+        "__": {
+            "avg": 2.2664,
+            "min": 2.0924,
+            "max": 2.4398,
+            "std": 0.115,
+            "count": 5,
+            "timestamp": "2024-05-23 16:20:26"
+        },
+        "__comments_tsv_in_reviews__": {
+            "avg": 2.1906,
+            "min": 1.2925,
+            "max": 4.6633,
+            "std": 1.2664,
+            "count": 5,
+            "timestamp": "2024-05-23 16:20:37"
+        },
+        "__datetime_in_reviews__": {
+            "avg": 2.9268,
+            "min": 2.333,
+            "max": 3.9993,
+            "std": 0.6118,
+            "count": 5,
+            "timestamp": "2024-05-23 16:20:51"
+        },
+        "__datetime_in_reviews__comments_tsv_in_reviews__": {
+            "avg": 1.5736,
+            "min": 1.4188,
+            "max": 1.9021,
+            "std": 0.1788,
+            "count": 5,
+            "timestamp": "2024-05-23 16:20:59"
+        }
+    },
+    "apartment_2019": {
+        "__": {
+            "avg": 2.1641,
+            "min": 1.8854,
+            "max": 2.9591,
+            "std": 0.4048,
+            "count": 5,
+            "timestamp": "2024-05-23 16:22:02"
+        },
+        "__comments_tsv_in_reviews__": {
+            "avg": 1.6212,
+            "min": 1.2921,
+            "max": 1.9747,
+            "std": 0.2334,
+            "count": 5,
+            "timestamp": "2024-05-23 16:22:10"
+        },
+        "__datetime_in_reviews__": {
+            "avg": 2.6827,
+            "min": 2.4549,
+            "max": 3.0692,
+            "std": 0.2105,
+            "count": 5,
+            "timestamp": "2024-05-23 16:22:24"
+        },
+        "__datetime_in_reviews__comments_tsv_in_reviews__": {
+            "avg": 1.3378,
+            "min": 0.2541,
+            "max": 2.2333,
+            "std": 0.6536,
+            "count": 5,
+            "timestamp": "2024-05-23 16:22:30"
+        }
+    },
+    "apartment_2023": {
+        "__": {
+            "avg": 2.2894,
+            "min": 2.1169,
+            "max": 2.75,
+            "std": 0.2356,
+            "count": 5,
+            "timestamp": "2024-05-23 16:23:52"
+        },
+        "__comments_tsv_in_reviews__": {
+            "avg": 1.23,
+            "min": 0.2657,
+            "max": 1.7275,
+            "std": 0.5562,
+            "count": 5,
+            "timestamp": "2024-05-23 16:23:58"
+        },
+        "__datetime_in_reviews__": {
+            "avg": 2.5609,
+            "min": 2.2717,
+            "max": 2.8943,
+            "std": 0.2039,
+            "count": 5,
+            "timestamp": "2024-05-23 16:24:11"
+        },
+        "__datetime_in_reviews__comments_tsv_in_reviews__": {
+            "avg": 0.9125,
+            "min": 0.3442,
+            "max": 1.3166,
+            "std": 0.3655,
+            "count": 5,
+            "timestamp": "2024-05-23 16:24:16"
+        }
+    },
+    "awesome_2009": {
+        "__": {
+            "avg": 2.2464,
+            "min": 1.995,
+            "max": 2.6074,
+            "std": 0.1989,
+            "count": 5,
+            "timestamp": "2024-05-23 16:10:59"
+        },
+        "__comments_tsv_in_reviews__": {
+            "avg": 0.5816,
+            "min": 0.0404,
+            "max": 0.9492,
+            "std": 0.3697,
+            "count": 5,
+            "timestamp": "2024-05-23 16:11:02"
+        },
+        "__datetime_in_reviews__": {
+            "avg": 2.7519,
+            "min": 2.0906,
+            "max": 3.9831,
+            "std": 0.7138,
+            "count": 5,
+            "timestamp": "2024-05-23 16:11:16"
+        },
+        "__datetime_in_reviews__comments_tsv_in_reviews__": {
+            "avg": 0.9725,
+            "min": 0.7969,
+            "max": 1.2045,
+            "std": 0.1369,
+            "count": 5,
+            "timestamp": "2024-05-23 16:11:20"
+        }
+    },
+    "awesome_2010": {
+        "__": {
+            "avg": 3.226,
+            "min": 2.3797,
+            "max": 5.6821,
+            "std": 1.2483,
+            "count": 5,
+            "timestamp": "2024-05-23 16:12:32"
+        },
+        "__comments_tsv_in_reviews__": {
+            "avg": 0.2445,
+            "min": 0.0339,
+            "max": 0.8589,
+            "std": 0.3119,
+            "count": 5,
+            "timestamp": "2024-05-23 16:12:34"
+        },
+        "__datetime_in_reviews__": {
+            "avg": 2.5589,
+            "min": 2.235,
+            "max": 2.965,
+            "std": 0.2481,
+            "count": 5,
+            "timestamp": "2024-05-23 16:12:46"
+        },
+        "__datetime_in_reviews__comments_tsv_in_reviews__": {
+            "avg": 1.2144,
+            "min": 0.9754,
+            "max": 1.5189,
+            "std": 0.1819,
+            "count": 5,
+            "timestamp": "2024-05-23 16:12:52"
+        }
+    },
+    "awesome_2011": {
+        "__": {
+            "avg": 2.8601,
+            "min": 2.7866,
+            "max": 2.9239,
+            "std": 0.0489,
+            "count": 5,
+            "timestamp": "2024-05-23 16:14:18"
+        },
+        "__comments_tsv_in_reviews__": {
+            "avg": 0.8087,
+            "min": 0.709,
+            "max": 0.8932,
+            "std": 0.0613,
+            "count": 5,
+            "timestamp": "2024-05-23 16:14:22"
+        },
+        "__datetime_in_reviews__": {
+            "avg": 2.6429,
+            "min": 2.5191,
+            "max": 2.8401,
+            "std": 0.1124,
+            "count": 5,
+            "timestamp": "2024-05-23 16:14:35"
+        },
+        "__datetime_in_reviews__comments_tsv_in_reviews__": {
+            "avg": 0.8707,
+            "min": 0.7433,
+            "max": 1.1324,
+            "std": 0.137,
+            "count": 5,
+            "timestamp": "2024-05-23 16:14:40"
+        }
+    },
+    "awesome_2012": {
+        "__": {
+            "avg": 2.5504,
+            "min": 2.1796,
+            "max": 3.046,
+            "std": 0.2808,
+            "count": 5,
+            "timestamp": "2024-05-23 16:16:09"
+        },
+        "__comments_tsv_in_reviews__": {
+            "avg": 0.285,
+            "min": 0.0337,
+            "max": 0.697,
+            "std": 0.2977,
+            "count": 5,
+            "timestamp": "2024-05-23 16:16:11"
+        },
+        "__datetime_in_reviews__": {
+            "avg": 2.6363,
+            "min": 2.3624,
+            "max": 3.1388,
+            "std": 0.2911,
+            "count": 5,
+            "timestamp": "2024-05-23 16:16:24"
+        },
+        "__datetime_in_reviews__comments_tsv_in_reviews__": {
+            "avg": 0.4795,
+            "min": 0.04,
+            "max": 1.0157,
+            "std": 0.4166,
+            "count": 5,
+            "timestamp": "2024-05-23 16:16:26"
+        }
+    },
+    "awesome_2013": {
+        "__": {
+            "avg": 2.7268,
+            "min": 2.0885,
+            "max": 3.5872,
+            "std": 0.6405,
+            "count": 5,
+            "timestamp": "2024-05-23 16:17:51"
+        },
+        "__comments_tsv_in_reviews__": {
+            "avg": 0.3532,
+            "min": 0.0345,
+            "max": 0.7878,
+            "std": 0.3009,
+            "count": 5,
+            "timestamp": "2024-05-23 16:17:53"
+        },
+        "__datetime_in_reviews__": {
+            "avg": 2.5345,
+            "min": 2.231,
+            "max": 2.8299,
+            "std": 0.2164,
+            "count": 5,
+            "timestamp": "2024-05-23 16:18:05"
+        },
+        "__datetime_in_reviews__comments_tsv_in_reviews__": {
+            "avg": 1.2093,
+            "min": 0.8661,
+            "max": 1.7443,
+            "std": 0.3066,
+            "count": 5,
+            "timestamp": "2024-05-23 16:18:11"
+        }
+    },
+    "awesome_2014": {
+        "__": {
+            "avg": 2.3442,
+            "min": 2.032,
+            "max": 2.7417,
+            "std": 0.25,
+            "count": 5,
+            "timestamp": "2024-05-23 16:19:27"
+        },
+        "__comments_tsv_in_reviews__": {
+            "avg": 0.2959,
+            "min": 0.0354,
+            "max": 0.9446,
+            "std": 0.3327,
+            "count": 5,
+            "timestamp": "2024-05-23 16:19:28"
+        },
+        "__datetime_in_reviews__": {
+            "avg": 2.5941,
+            "min": 2.2648,
+            "max": 3.0968,
+            "std": 0.2853,
+            "count": 5,
+            "timestamp": "2024-05-23 16:19:41"
+        },
+        "__datetime_in_reviews__comments_tsv_in_reviews__": {
+            "avg": 0.9207,
+            "min": 0.8574,
+            "max": 0.9654,
+            "std": 0.0365,
+            "count": 5,
+            "timestamp": "2024-05-23 16:19:46"
+        }
+    },
+    "awesome_2017": {
+        "__": {
+            "avg": 3.0467,
+            "min": 2.378,
+            "max": 3.5495,
+            "std": 0.4799,
+            "count": 5,
+            "timestamp": "2024-05-23 16:21:14"
+        },
+        "__comments_tsv_in_reviews__": {
+            "avg": 0.7629,
+            "min": 0.2581,
+            "max": 1.1484,
+            "std": 0.3663,
+            "count": 5,
+            "timestamp": "2024-05-23 16:21:18"
+        },
+        "__datetime_in_reviews__": {
+            "avg": 2.2398,
+            "min": 1.9813,
+            "max": 2.7996,
+            "std": 0.3041,
+            "count": 5,
+            "timestamp": "2024-05-23 16:21:29"
+        },
+        "__datetime_in_reviews__comments_tsv_in_reviews__": {
+            "avg": 0.2199,
+            "min": 0.0336,
+            "max": 0.617,
+            "std": 0.2126,
+            "count": 5,
+            "timestamp": "2024-05-23 16:21:31"
+        }
+    },
+    "awesome_2019": {
+        "__": {
+            "avg": 3.029,
+            "min": 2.6399,
+            "max": 3.9256,
+            "std": 0.5012,
+            "count": 5,
+            "timestamp": "2024-05-23 16:22:46"
+        },
+        "__comments_tsv_in_reviews__": {
+            "avg": 0.9839,
+            "min": 0.8222,
+            "max": 1.2846,
+            "std": 0.161,
+            "count": 5,
+            "timestamp": "2024-05-23 16:22:50"
+        },
+        "__datetime_in_reviews__": {
+            "avg": 2.8,
+            "min": 2.3091,
+            "max": 3.8162,
+            "std": 0.5477,
+            "count": 5,
+            "timestamp": "2024-05-23 16:23:04"
+        },
+        "__datetime_in_reviews__comments_tsv_in_reviews__": {
+            "avg": 1.0537,
+            "min": 0.998,
+            "max": 1.1255,
+            "std": 0.0538,
+            "count": 5,
+            "timestamp": "2024-05-23 16:23:10"
+        }
+    },
+    "awesome_2023": {
+        "__": {
+            "avg": 2.727,
+            "min": 2.0336,
+            "max": 3.2209,
+            "std": 0.514,
+            "count": 5,
+            "timestamp": "2024-05-23 16:24:29"
+        },
+        "__comments_tsv_in_reviews__": {
+            "avg": 0.1477,
+            "min": 0.0335,
+            "max": 0.5976,
+            "std": 0.2249,
+            "count": 5,
+            "timestamp": "2024-05-23 16:24:30"
+        },
+        "__datetime_in_reviews__": {
+            "avg": 2.5523,
+            "min": 2.0212,
+            "max": 3.3007,
+            "std": 0.4256,
+            "count": 5,
+            "timestamp": "2024-05-23 16:24:43"
+        },
+        "__datetime_in_reviews__comments_tsv_in_reviews__": {
+            "avg": 0.678,
+            "min": 0.1558,
+            "max": 0.8679,
+            "std": 0.2664,
+            "count": 5,
+            "timestamp": "2024-05-23 16:24:46"
+        }
+    },
+    "horrible_2009": {
+        "__": {
+            "avg": 2.4236,
+            "min": 2.2541,
+            "max": 2.7484,
+            "std": 0.1929,
+            "count": 5,
+            "timestamp": "2024-05-23 16:11:33"
+        },
+        "__comments_tsv_in_reviews__": {
+            "avg": 0.0072,
+            "min": 0.0006,
+            "max": 0.0332,
+            "std": 0.013,
+            "count": 5,
+            "timestamp": "2024-05-23 16:11:33"
+        },
+        "__datetime_in_reviews__": {
+            "avg": 2.1216,
+            "min": 1.9478,
+            "max": 2.4097,
+            "std": 0.1586,
+            "count": 5,
+            "timestamp": "2024-05-23 16:11:43"
+        },
+        "__datetime_in_reviews__comments_tsv_in_reviews__": {
+            "avg": 0.0008,
+            "min": 0.0005,
+            "max": 0.0015,
+            "std": 0.0004,
+            "count": 5,
+            "timestamp": "2024-05-23 16:11:43"
+        }
+    },
+    "horrible_2010": {
+        "__": {
+            "avg": 3.2073,
+            "min": 2.6887,
+            "max": 4.5148,
+            "std": 0.7004,
+            "count": 5,
+            "timestamp": "2024-05-23 16:13:09"
+        },
+        "__comments_tsv_in_reviews__": {
+            "avg": 0.0272,
+            "min": 0.001,
+            "max": 0.1306,
+            "std": 0.0517,
+            "count": 5,
+            "timestamp": "2024-05-23 16:13:09"
+        },
+        "__datetime_in_reviews__": {
+            "avg": 2.8135,
+            "min": 2.2103,
+            "max": 3.9725,
+            "std": 0.623,
+            "count": 5,
+            "timestamp": "2024-05-23 16:13:23"
+        },
+        "__datetime_in_reviews__comments_tsv_in_reviews__": {
+            "avg": 0.0009,
+            "min": 0.0006,
+            "max": 0.0018,
+            "std": 0.0004,
+            "count": 5,
+            "timestamp": "2024-05-23 16:13:23"
+        }
+    },
+    "horrible_2011": {
+        "__": {
+            "avg": 2.821,
+            "min": 2.1458,
+            "max": 3.8181,
+            "std": 0.6532,
+            "count": 5,
+            "timestamp": "2024-05-23 16:14:54"
+        },
+        "__comments_tsv_in_reviews__": {
+            "avg": 0.0075,
+            "min": 0.0007,
+            "max": 0.0344,
+            "std": 0.0134,
+            "count": 5,
+            "timestamp": "2024-05-23 16:14:54"
+        },
+        "__datetime_in_reviews__": {
+            "avg": 3.6947,
+            "min": 2.2994,
+            "max": 6.2962,
+            "std": 1.4375,
+            "count": 5,
+            "timestamp": "2024-05-23 16:15:12"
+        },
+        "__datetime_in_reviews__comments_tsv_in_reviews__": {
+            "avg": 0.0035,
+            "min": 0.0008,
+            "max": 0.013,
+            "std": 0.0047,
+            "count": 5,
+            "timestamp": "2024-05-23 16:15:12"
+        }
+    },
+    "horrible_2012": {
+        "__": {
+            "avg": 2.7676,
+            "min": 2.2828,
+            "max": 3.9449,
+            "std": 0.6005,
+            "count": 5,
+            "timestamp": "2024-05-23 16:16:40"
+        },
+        "__comments_tsv_in_reviews__": {
+            "avg": 0.0155,
+            "min": 0.0006,
+            "max": 0.074,
+            "std": 0.0293,
+            "count": 5,
+            "timestamp": "2024-05-23 16:16:40"
+        },
+        "__datetime_in_reviews__": {
+            "avg": 2.4161,
+            "min": 2.0372,
+            "max": 3.2537,
+            "std": 0.4392,
+            "count": 5,
+            "timestamp": "2024-05-23 16:16:52"
+        },
+        "__datetime_in_reviews__comments_tsv_in_reviews__": {
+            "avg": 0.0008,
+            "min": 0.0004,
+            "max": 0.0022,
+            "std": 0.0007,
+            "count": 5,
+            "timestamp": "2024-05-23 16:16:52"
+        }
+    },
+    "horrible_2013": {
+        "__": {
+            "avg": 2.818,
+            "min": 2.5286,
+            "max": 3.4723,
+            "std": 0.3393,
+            "count": 5,
+            "timestamp": "2024-05-23 16:18:26"
+        },
+        "__comments_tsv_in_reviews__": {
+            "avg": 0.0107,
+            "min": 0.0008,
+            "max": 0.0383,
+            "std": 0.0145,
+            "count": 5,
+            "timestamp": "2024-05-23 16:18:26"
+        },
+        "__datetime_in_reviews__": {
+            "avg": 2.192,
+            "min": 2.0016,
+            "max": 2.5128,
+            "std": 0.1873,
+            "count": 5,
+            "timestamp": "2024-05-23 16:18:37"
+        },
+        "__datetime_in_reviews__comments_tsv_in_reviews__": {
+            "avg": 0.001,
+            "min": 0.0005,
+            "max": 0.0023,
+            "std": 0.0007,
+            "count": 5,
+            "timestamp": "2024-05-23 16:18:37"
+        }
+    },
+    "horrible_2014": {
+        "__": {
+            "avg": 2.9565,
+            "min": 2.4354,
+            "max": 3.5731,
+            "std": 0.4015,
+            "count": 5,
+            "timestamp": "2024-05-23 16:20:01"
+        },
+        "__comments_tsv_in_reviews__": {
+            "avg": 0.0077,
+            "min": 0.0007,
+            "max": 0.0351,
+            "std": 0.0137,
+            "count": 5,
+            "timestamp": "2024-05-23 16:20:01"
+        },
+        "__datetime_in_reviews__": {
+            "avg": 2.7337,
+            "min": 2.1877,
+            "max": 3.4278,
+            "std": 0.4413,
+            "count": 5,
+            "timestamp": "2024-05-23 16:20:14"
+        },
+        "__datetime_in_reviews__comments_tsv_in_reviews__": {
+            "avg": 0.001,
+            "min": 0.0005,
+            "max": 0.0022,
+            "std": 0.0006,
+            "count": 5,
+            "timestamp": "2024-05-23 16:20:14"
+        }
+    },
+    "horrible_2017": {
+        "__": {
+            "avg": 2.1701,
+            "min": 2.0064,
+            "max": 2.4547,
+            "std": 0.1717,
+            "count": 5,
+            "timestamp": "2024-05-23 16:21:41"
+        },
+        "__comments_tsv_in_reviews__": {
+            "avg": 0.0098,
+            "min": 0.0005,
+            "max": 0.0464,
+            "std": 0.0183,
+            "count": 5,
+            "timestamp": "2024-05-23 16:21:41"
+        },
+        "__datetime_in_reviews__": {
+            "avg": 1.9572,
+            "min": 1.844,
+            "max": 2.2287,
+            "std": 0.1446,
+            "count": 5,
+            "timestamp": "2024-05-23 16:21:51"
+        },
+        "__datetime_in_reviews__comments_tsv_in_reviews__": {
+            "avg": 0.0007,
+            "min": 0.0006,
+            "max": 0.0013,
+            "std": 0.0003,
+            "count": 5,
+            "timestamp": "2024-05-23 16:21:51"
+        }
+    },
+    "horrible_2019": {
+        "__": {
+            "avg": 3.054,
+            "min": 2.5141,
+            "max": 3.4204,
+            "std": 0.318,
+            "count": 5,
+            "timestamp": "2024-05-23 16:23:25"
+        },
+        "__comments_tsv_in_reviews__": {
+            "avg": 0.0132,
+            "min": 0.0009,
+            "max": 0.062,
+            "std": 0.0244,
+            "count": 5,
+            "timestamp": "2024-05-23 16:23:25"
+        },
+        "__datetime_in_reviews__": {
+            "avg": 3.1034,
+            "min": 2.3486,
+            "max": 3.7727,
+            "std": 0.5874,
+            "count": 5,
+            "timestamp": "2024-05-23 16:23:41"
+        },
+        "__datetime_in_reviews__comments_tsv_in_reviews__": {
+            "avg": 0.0009,
+            "min": 0.0005,
+            "max": 0.0022,
+            "std": 0.0007,
+            "count": 5,
+            "timestamp": "2024-05-23 16:23:41"
+        }
+    },
+    "horrible_2023": {
+        "__": {
+            "avg": 2.7916,
+            "min": 2.1782,
+            "max": 3.4208,
+            "std": 0.4289,
+            "count": 5,
+            "timestamp": "2024-05-23 16:25:00"
+        },
+        "__comments_tsv_in_reviews__": {
+            "avg": 0.0102,
+            "min": 0.0005,
+            "max": 0.0481,
+            "std": 0.019,
+            "count": 5,
+            "timestamp": "2024-05-23 16:25:00"
+        },
+        "__datetime_in_reviews__": {
+            "avg": 2.3561,
+            "min": 2.2031,
+            "max": 2.5374,
+            "std": 0.143,
+            "count": 5,
+            "timestamp": "2024-05-23 16:25:12"
+        },
+        "__datetime_in_reviews__comments_tsv_in_reviews__": {
+            "avg": 0.0007,
+            "min": 0.0005,
+            "max": 0.0015,
+            "std": 0.0004,
+            "count": 5,
+            "timestamp": "2024-05-23 16:25:12"
+        }
+    }
+}
