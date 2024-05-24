@@ -1,274 +1,274 @@
 {
     "update_datetimes_neigh_Bedford-Stuyvesant": {
         "__": {
-            "avg": 11.8403,
-            "min": 8.7269,
-            "max": 17.2456,
-            "std": 3.8368,
-            "count": 3,
-            "timestamp": "2024-05-23 20:51:33"
+            "avg": 7.5524,
+            "count": 50,
+            "max": 14.1244,
+            "min": 3.0716,
+            "std": 2.5688,
+            "timestamp": "2024-05-24 03:23:36"
         },
         "__datetime_in_reviews__": {
-            "avg": 17.2783,
-            "min": 16.2422,
-            "max": 19.2654,
-            "std": 1.4056,
-            "count": 3,
-            "timestamp": "2024-05-23 20:52:29"
+            "avg": 8.2498,
+            "count": 50,
+            "max": 20.1522,
+            "min": 1.713,
+            "std": 4.821,
+            "timestamp": "2024-05-24 03:30:46"
         },
-        "__neighbourhood_group_in_listings__": {
-            "avg": 14.9379,
-            "min": 11.4676,
-            "max": 17.751,
-            "std": 2.6069,
-            "count": 3,
-            "timestamp": "2024-05-23 20:53:15"
+        "__datetime_in_reviews__neigh_in_listings__": {
+            "avg": 8.1511,
+            "count": 50,
+            "max": 14.2975,
+            "min": 1.8341,
+            "std": 4.1339,
+            "timestamp": "2024-05-24 03:42:26"
         },
-        "__datetime_in_reviews__neighbourhood_group_in_listings__": {
-            "avg": 21.2818,
-            "min": 19.9904,
-            "max": 22.3071,
-            "std": 0.9643,
-            "count": 3,
-            "timestamp": "2024-05-23 20:54:25"
+        "__neigh_in_listings__": {
+            "avg": 4.7111,
+            "count": 50,
+            "max": 19.1962,
+            "min": 0.9016,
+            "std": 4.3694,
+            "timestamp": "2024-05-24 03:35:15"
         }
     },
     "update_datetimes_neigh_Bronx": {
         "__": {
-            "avg": 14.03,
-            "min": 12.6585,
-            "max": 14.9256,
-            "std": 0.9848,
-            "count": 3,
-            "timestamp": "2024-05-23 20:55:08"
+            "avg": 1.5506,
+            "count": 50,
+            "max": 4.9441,
+            "min": 0.6549,
+            "std": 1.0727,
+            "timestamp": "2024-05-24 03:43:58"
         },
         "__datetime_in_reviews__": {
-            "avg": 15.5006,
-            "min": 13.7678,
-            "max": 17.597,
-            "std": 1.5842,
-            "count": 3,
-            "timestamp": "2024-05-23 20:56:01"
+            "avg": 1.8858,
+            "count": 50,
+            "max": 4.6762,
+            "min": 0.69,
+            "std": 1.029,
+            "timestamp": "2024-05-24 03:45:46"
         },
-        "__neighbourhood_group_in_listings__": {
-            "avg": 14.47,
-            "min": 12.4542,
-            "max": 15.5939,
-            "std": 1.4285,
-            "count": 3,
-            "timestamp": "2024-05-23 20:56:45"
+        "__datetime_in_reviews__neigh_in_listings__": {
+            "avg": 1.6006,
+            "count": 50,
+            "max": 6.0075,
+            "min": 0.7112,
+            "std": 1.0708,
+            "timestamp": "2024-05-24 03:49:01"
         },
-        "__datetime_in_reviews__neighbourhood_group_in_listings__": {
-            "avg": 15.8572,
-            "min": 12.6977,
-            "max": 17.7307,
-            "std": 2.247,
-            "count": 3,
-            "timestamp": "2024-05-23 20:57:40"
+        "__neigh_in_listings__": {
+            "avg": 1.7405,
+            "count": 50,
+            "max": 4.0943,
+            "min": 0.67,
+            "std": 0.9495,
+            "timestamp": "2024-05-24 03:47:24"
         }
     },
     "update_datetimes_neigh_Fort_Hamilton": {
         "__": {
-            "avg": 7.6315,
-            "min": 6.6823,
-            "max": 8.498,
-            "std": 0.7436,
-            "count": 3,
-            "timestamp": "2024-05-23 20:58:04"
+            "avg": 0.2956,
+            "count": 50,
+            "max": 1.3736,
+            "min": 0.2252,
+            "std": 0.1733,
+            "timestamp": "2024-05-24 03:49:32"
         },
         "__datetime_in_reviews__": {
-            "avg": 9.2803,
-            "min": 7.4724,
-            "max": 11.5073,
-            "std": 1.6737,
-            "count": 3,
-            "timestamp": "2024-05-23 20:58:38"
+            "avg": 0.2949,
+            "count": 50,
+            "max": 0.6206,
+            "min": 0.2283,
+            "std": 0.0865,
+            "timestamp": "2024-05-24 03:50:08"
         },
-        "__neighbourhood_group_in_listings__": {
-            "avg": 6.176,
-            "min": 5.7147,
-            "max": 6.8858,
-            "std": 0.5093,
-            "count": 3,
-            "timestamp": "2024-05-23 20:58:58"
+        "__datetime_in_reviews__neigh_in_listings__": {
+            "avg": 0.2291,
+            "count": 50,
+            "max": 0.2931,
+            "min": 0.2168,
+            "std": 0.0179,
+            "timestamp": "2024-05-24 03:51:00"
         },
-        "__datetime_in_reviews__neighbourhood_group_in_listings__": {
-            "avg": 7.2503,
-            "min": 6.5168,
-            "max": 8.5376,
-            "std": 0.9132,
-            "count": 3,
-            "timestamp": "2024-05-23 20:59:26"
+        "__neigh_in_listings__": {
+            "avg": 0.2383,
+            "count": 50,
+            "max": 0.5134,
+            "min": 0.2168,
+            "std": 0.0463,
+            "timestamp": "2024-05-24 03:50:33"
         }
     },
     "update_datetimes_neigh_Long_Island_City": {
         "__": {
-            "avg": 7.6457,
-            "min": 6.9668,
-            "max": 8.9219,
-            "std": 0.9031,
-            "count": 3,
-            "timestamp": "2024-05-23 20:59:50"
+            "avg": 0.4281,
+            "count": 50,
+            "max": 1.004,
+            "min": 0.2968,
+            "std": 0.1286,
+            "timestamp": "2024-05-24 03:51:36"
         },
         "__datetime_in_reviews__": {
-            "avg": 10.1032,
-            "min": 8.7936,
-            "max": 11.2859,
-            "std": 1.0214,
-            "count": 3,
-            "timestamp": "2024-05-23 21:00:26"
+            "avg": 0.5129,
+            "count": 50,
+            "max": 1.6757,
+            "min": 0.3063,
+            "std": 0.247,
+            "timestamp": "2024-05-24 03:52:16"
         },
-        "__neighbourhood_group_in_listings__": {
-            "avg": 7.4275,
-            "min": 6.9979,
-            "max": 7.9505,
-            "std": 0.3944,
-            "count": 3,
-            "timestamp": "2024-05-23 21:00:49"
+        "__datetime_in_reviews__neigh_in_listings__": {
+            "avg": 0.5929,
+            "count": 50,
+            "max": 2.0991,
+            "min": 0.2993,
+            "std": 0.3701,
+            "timestamp": "2024-05-24 03:53:41"
         },
-        "__datetime_in_reviews__neighbourhood_group_in_listings__": {
-            "avg": 9.0382,
-            "min": 8.6839,
-            "max": 9.238,
-            "std": 0.2512,
-            "count": 3,
-            "timestamp": "2024-05-23 21:01:22"
+        "__neigh_in_listings__": {
+            "avg": 0.5144,
+            "count": 50,
+            "max": 1.8079,
+            "min": 0.2722,
+            "std": 0.3166,
+            "timestamp": "2024-05-24 03:52:56"
         }
     },
     "update_datetimes_neigh_Manhattan": {
         "__": {
-            "avg": 58.3549,
-            "min": 47.3138,
-            "max": 64.7033,
-            "std": 7.8365,
-            "count": 3,
-            "timestamp": "2024-05-23 21:04:19"
+            "avg": 37.8043,
+            "count": 50,
+            "max": 332.6657,
+            "min": 9.3845,
+            "std": 54.575,
+            "timestamp": "2024-05-24 04:25:25"
         },
         "__datetime_in_reviews__": {
-            "avg": 72.0738,
-            "min": 66.1701,
-            "max": 83.049,
-            "std": 7.768,
-            "count": 3,
-            "timestamp": "2024-05-23 21:08:04"
+            "avg": 67.2988,
+            "count": 50,
+            "max": 332.2439,
+            "min": 10.3458,
+            "std": 93.2451,
+            "timestamp": "2024-05-24 05:21:44"
         },
-        "__neighbourhood_group_in_listings__": {
-            "avg": 60.1735,
-            "min": 48.2043,
-            "max": 78.1094,
-            "std": 12.9172,
-            "count": 3,
-            "timestamp": "2024-05-23 21:11:06"
+        "__datetime_in_reviews__neigh_in_listings__": {
+            "avg": 30.5136,
+            "count": 50,
+            "max": 86.2642,
+            "min": 10.2174,
+            "std": 14.7112,
+            "timestamp": "2024-05-24 06:48:35"
         },
-        "__datetime_in_reviews__neighbourhood_group_in_listings__": {
-            "avg": 92.1364,
-            "min": 78.0171,
-            "max": 119.4237,
-            "std": 19.299,
-            "count": 3,
-            "timestamp": "2024-05-23 21:15:55"
+        "__neigh_in_listings__": {
+            "avg": 72.9328,
+            "count": 50,
+            "max": 988.1821,
+            "min": 7.3118,
+            "std": 196.3949,
+            "timestamp": "2024-05-24 06:22:54"
         }
     },
     "update_datetimes_neigh_New_Springville": {
         "__": {
-            "avg": 22.513,
-            "min": 21.3177,
-            "max": 23.3507,
-            "std": 0.8676,
-            "count": 3,
-            "timestamp": "2024-05-23 21:17:04"
+            "avg": 0.2442,
+            "count": 50,
+            "max": 0.9193,
+            "min": 0.219,
+            "std": 0.0967,
+            "timestamp": "2024-05-24 06:49:18"
         },
         "__datetime_in_reviews__": {
-            "avg": 24.1679,
-            "min": 21.1276,
-            "max": 26.2888,
-            "std": 2.2051,
-            "count": 3,
-            "timestamp": "2024-05-23 21:18:32"
+            "avg": 0.2328,
+            "count": 50,
+            "max": 0.3435,
+            "min": 0.2191,
+            "std": 0.0174,
+            "timestamp": "2024-05-24 06:49:43"
         },
-        "__neighbourhood_group_in_listings__": {
-            "avg": 18.7528,
-            "min": 17.8489,
-            "max": 20.1584,
-            "std": 1.0074,
-            "count": 3,
-            "timestamp": "2024-05-23 21:19:30"
+        "__datetime_in_reviews__neigh_in_listings__": {
+            "avg": 0.2331,
+            "count": 50,
+            "max": 0.3633,
+            "min": 0.2155,
+            "std": 0.0236,
+            "timestamp": "2024-05-24 06:50:34"
         },
-        "__datetime_in_reviews__neighbourhood_group_in_listings__": {
-            "avg": 19.962,
-            "min": 19.5474,
-            "max": 20.423,
-            "std": 0.359,
-            "count": 3,
-            "timestamp": "2024-05-23 21:20:44"
+        "__neigh_in_listings__": {
+            "avg": 0.2283,
+            "count": 50,
+            "max": 0.3726,
+            "min": 0.2139,
+            "std": 0.022,
+            "timestamp": "2024-05-24 06:50:09"
         }
     },
     "update_datetimes_neigh_Queens": {
         "__": {
-            "avg": 43.9623,
-            "min": 36.7789,
-            "max": 53.0461,
-            "std": 6.7756,
-            "count": 3,
-            "timestamp": "2024-05-23 21:22:57"
+            "avg": 9.717,
+            "count": 50,
+            "max": 29.7958,
+            "min": 1.9799,
+            "std": 6.2647,
+            "timestamp": "2024-05-24 06:58:49"
         },
         "__datetime_in_reviews__": {
-            "avg": 59.6396,
-            "min": 43.9479,
-            "max": 86.1703,
-            "std": 18.8644,
-            "count": 3,
-            "timestamp": "2024-05-23 21:26:11"
+            "avg": 10.3762,
+            "count": 50,
+            "max": 21.6388,
+            "min": 1.4214,
+            "std": 6.0068,
+            "timestamp": "2024-05-24 07:07:44"
         },
-        "__neighbourhood_group_in_listings__": {
-            "avg": 46.3178,
-            "min": 33.3138,
-            "max": 54.6454,
-            "std": 9.3153,
-            "count": 3,
-            "timestamp": "2024-05-23 21:28:31"
+        "__datetime_in_reviews__neigh_in_listings__": {
+            "avg": 38.3903,
+            "count": 50,
+            "max": 455.5971,
+            "min": 2.4412,
+            "std": 94.1786,
+            "timestamp": "2024-05-24 08:30:43"
         },
-        "__datetime_in_reviews__neighbourhood_group_in_listings__": {
-            "avg": 49.1361,
-            "min": 46.3646,
-            "max": 52.7972,
-            "std": 2.7004,
-            "count": 3,
-            "timestamp": "2024-05-23 21:31:16"
+        "__neigh_in_listings__": {
+            "avg": 60.3357,
+            "count": 50,
+            "max": 1011.0459,
+            "min": 2.0013,
+            "std": 207.7668,
+            "timestamp": "2024-05-24 07:58:23"
         }
     },
     "update_datetimes_neigh_Staten_Island": {
         "__": {
-            "avg": 17.3409,
-            "min": 17.0166,
-            "max": 17.7747,
-            "std": 0.3191,
-            "count": 3,
-            "timestamp": "2024-05-23 21:32:09"
+            "avg": 6.3233,
+            "count": 50,
+            "max": 299.5574,
+            "min": 0.2714,
+            "std": 41.8907,
+            "timestamp": "2024-05-24 08:36:20"
         },
         "__datetime_in_reviews__": {
-            "avg": 18.2618,
-            "min": 16.929,
-            "max": 19.6086,
-            "std": 1.094,
-            "count": 3,
-            "timestamp": "2024-05-23 21:33:21"
+            "avg": 0.3394,
+            "count": 50,
+            "max": 0.5317,
+            "min": 0.277,
+            "std": 0.045,
+            "timestamp": "2024-05-24 08:36:50"
         },
-        "__neighbourhood_group_in_listings__": {
-            "avg": 15.3379,
-            "min": 14.4677,
-            "max": 16.337,
-            "std": 0.7686,
-            "count": 3,
-            "timestamp": "2024-05-23 21:34:09"
+        "__datetime_in_reviews__neigh_in_listings__": {
+            "avg": 0.355,
+            "count": 50,
+            "max": 0.7603,
+            "min": 0.2762,
+            "std": 0.0849,
+            "timestamp": "2024-05-24 08:42:45"
         },
-        "__datetime_in_reviews__neighbourhood_group_in_listings__": {
-            "avg": 16.3811,
-            "min": 15.6389,
-            "max": 17.3317,
-            "std": 0.7067,
-            "count": 3,
-            "timestamp": "2024-05-23 21:35:15"
+        "__neigh_in_listings__": {
+            "avg": 0.3075,
+            "count": 50,
+            "max": 0.6676,
+            "min": 0.2695,
+            "std": 0.0604,
+            "timestamp": "2024-05-24 08:42:16"
         }
     }
 }
